@@ -1,15 +1,16 @@
 h1 {
-    background-color: #e60feefa;
+    background-color:#dee97cfa;
+
 }
 
 body {
     background-image: url("img_tree.png");
     background-position: right top;
-    background-color: #dd09dd;
+    background-color: #dee97cfa;
 }
 
 button {
-    background-color: #e206d0f8;
+    background-color:#dee97cfa;
     padding: 50pxsolid;
 }
 
@@ -33,11 +34,11 @@ textarea {
 }
 
 p {
-    background-color: #e918c6;
+    background-color: #dee97cfa;
     padding: 20px solid;
 }
 
 style {
-    background-color: #ff00ea;
+    background-color: #dee97cfa;
     padding: 20px solid
 }
